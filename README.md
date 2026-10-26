@@ -5,6 +5,8 @@ sources are fetched and deduped, drafts wait in a review inbox, **nothing
 publishes without an explicit approval**, approved items enter a scheduled
 queue, and every step is logged so "did it go out?" is always answerable.
 
+Full starter (this pattern, complete): https://theworkflowwire.gumroad.com/l/yunnet — $49 one-time, single-business license.
+
 This is a code-quality sample for the Victory Node build shop. It is the
 skeleton of a LinkedIn-first social-media orchestrator: swap the demo
 source adapter for Firecrawl/Reddit/forum fetchers and the demo publisher
